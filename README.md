@@ -1,6 +1,6 @@
-# 🚀 BottomNavigation – Flutter
-
 ![image](https://github.com/user-attachments/assets/4aa287a3-9024-4939-8b5c-9d120fc8b6c2)
+
+# 🚀 BottomNavigation – Flutter
 
 Ce projet implémente une **barre de navigation inférieure personnalisée** dans une application Flutter, en utilisant le package `salomon_bottom_bar` pour un rendu **esthétique et moderne**, ainsi que **GetX** pour la gestion de l'état.
 
